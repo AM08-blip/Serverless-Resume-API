@@ -1,0 +1,27 @@
+
+{
+  "personal": {
+    "name": "Lucky",
+    "email": "lucky22@gmail.com",
+    "location": "India",
+    "career_objective": "Aspiring Software Engineer interested in software development and cloud computing"
+  },
+  "experience": [],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "Hawkard Collage",
+      "year": "2027"
+    }
+  ],
+  "skills": [
+    "Java",
+    "Python",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "MySQL",
+    "AWS",
+    "GitHub"
+  ]
+}
